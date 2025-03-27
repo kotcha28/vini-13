@@ -1,4 +1,4 @@
-# 🤖BOT Discord - Vinnicius13 (v1.0)
+# 🤖BOT Discord Música - (v1.0)
 
 Nesse repositório estarão listados os passos para executar o Vinnicius13 e os arquivos necessários no seu PC para que ele funcione corretamente.
 
