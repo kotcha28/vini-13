@@ -150,5 +150,5 @@ async def leave(ctx):
 
 
 # Executar o bot
-TOKEN = "MTEzMTAwNjM3MDYxNTkxODY4Mg.GWMNZA.BgOiCVDHxOOGckxunoo5sVtT18RZIdNFmjRKwQ"  # Substitua pelo token do seu bot
+TOKEN = "aaaaa"  # Substitua pelo token do seu bot
 bot.run(TOKEN)
